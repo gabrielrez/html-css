@@ -1,0 +1,72 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+#principal{
+    text-align: center;
+    color: white;
+    background-color: #3c805e;
+
+}
+
+h2{
+    color: #3c805e;
+
+}
+
+.basico{
+    color: #4dbe86;
+
+}
+
+.intermediario{
+    color: #c7bd31;
+
+}
+
+.avançado{
+    color: #3282b8;
+
+}
+
+div{
+    background-color: grey;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    display: inline-block;
+
+}
+
+div:hover{
+    background-color: #3282b8;
+
+}
+
+a{
+    color: red;
+
+}
+
+a:visited{
+    color: darkred;
+
+}
+
+a:hover{
+    color: black;
+
+}
+
+#exemplo{
+    background-color: lightgray;
+    width: 300px;
+    height: 300px;
+    border: 10px solid darkslategrey;
+    padding: 10px;
+    margin: auto;
+    outline: 5px dashed dodgerblue;
+
+}
